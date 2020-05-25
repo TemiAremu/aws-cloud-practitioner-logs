@@ -3,6 +3,7 @@
 Logs for AWS Cloud Practioner Certifiction
 
 **Start Date**: May 25, 2020
+
 **End Date**: TBA
 
 ### Resources
