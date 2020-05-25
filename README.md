@@ -1,6 +1,6 @@
-# aws-cloud-practioner-logs
-# AWS Certified Cloud Practioner
-Logs for AWS Cloud Practioner Certifiction
+# aws-cloud-practitioner-logs
+# AWS Certified Cloud Practitioner
+Logs for AWS Cloud Practitioner Certification
 
 **Start Date**: May 25, 2020
 
