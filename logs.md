@@ -7,3 +7,6 @@ Started the Cloud Practitioner path on linkedin https://www.linkedin.com/learnin
 
 ### Day 2: May 26, 2020
 Learned about AWS security and compliance domain. AWS security pillars consist of IAM, Detective Controls, infrastructure protection, data protection and incident response. Also learnt about the principle of least priviledge in IAM and security services like WAF, AWS Shield, Amazon inspector, Trusted advisor and Guard duty.
+
+### Day 3: May 27, 2020
+Learned about AWS core services and billing and pricing. Learned about computing services like EC2, Elastic Beanstalk, Elastic load balancer, Lambda functions, AWS lightsail. Also learned about deploying and operating in AWS, AWS global infrastructure, region and high availability. AWS storage like S3, EBS, Snowball, storage gateway and databases like DynamoDB, RDS, Aurora, redshift. Network and content delivery like VPC, cloudfront, route 53 and management tools like cloudformation, cloudtrail and cloudwatch. For billing and pricing, I learnt about the billing dashboards, types of charges, consolidated billing, cost calculators and support plans. Completed the linkedin cloud practitioner path.
