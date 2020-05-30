@@ -10,3 +10,13 @@ Learned about AWS security and compliance domain. AWS security pillars consist o
 
 ### Day 3: May 27, 2020
 Learned about AWS core services and billing and pricing. Learned about computing services like EC2, Elastic Beanstalk, Elastic load balancer, Lambda functions, AWS lightsail. Also learned about deploying and operating in AWS, AWS global infrastructure, region and high availability. AWS storage like S3, EBS, Snowball, storage gateway and databases like DynamoDB, RDS, Aurora, redshift. Network and content delivery like VPC, cloudfront, route 53 and management tools like cloudformation, cloudtrail and cloudwatch. For billing and pricing, I learnt about the billing dashboards, types of charges, consolidated billing, cost calculators and support plans. Completed the linkedin cloud practitioner path.
+
+### Day 4: May 28, 2020
+Reviewed and revised verything I've learnt so far.
+
+### Day 5: May 29, 2020
+Started Freecodecamp's AWS Certified Cloud Practitioner Training 2020 - https://www.youtube.com/watch?v=3hLmDS179YE
+
+### Day 6: May 30, 2020
+Continued Freecodecamp's AWS Certified Cloud Practitioner Training video
+
