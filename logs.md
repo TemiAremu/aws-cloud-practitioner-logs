@@ -20,3 +20,9 @@ Started Freecodecamp's AWS Certified Cloud Practitioner Training 2020 - https://
 ### Day 6: May 30, 2020
 Continued Freecodecamp's AWS Certified Cloud Practitioner Training video
 
+### Day 7: May 31, 2020
+Completed and reviewed freecodecamp's video
+
+### Day 8: June 1, 2020
+AWS Educate did a thing! They are giving us free access to a cloud guru's platform! Starting their cloud practitioner course
+
