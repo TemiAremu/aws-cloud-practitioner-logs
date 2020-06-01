@@ -24,5 +24,5 @@ Continued Freecodecamp's AWS Certified Cloud Practitioner Training video
 Completed and reviewed freecodecamp's video
 
 ### Day 8: June 1, 2020
-AWS Educate did a thing! They are giving us free access to a cloud guru's platform! Starting their cloud practitioner course
+AWS Educate did a thing! They are giving us free access to a cloud guru's platform! Starting with their introduction to cloud computing and AWS just because!
 
