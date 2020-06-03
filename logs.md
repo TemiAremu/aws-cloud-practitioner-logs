@@ -26,3 +26,8 @@ Completed and reviewed freecodecamp's video
 ### Day 8: June 1, 2020
 AWS Educate did a thing! They are giving us free access to a cloud guru's platform! Starting with their introduction to cloud computing and AWS just because!
 
+### Day 9: June 2, 2020
+Started a cloud guru's cloud practitioner course. Basically a review of what I've learnt so far
+
+### Day 10 : June 3, 2020
+A cloud guru's videos have hands-on AWS labs for some of the major topics like S3, Cloudfront, EC2
